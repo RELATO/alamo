@@ -1,0 +1,29 @@
+{
+  "name": "alamo",
+  "version": "0.0.1",
+  "description": "Alamo project by relato",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RELATO/alamo.git"
+  },
+  "keywords": [
+    "breeze",
+    "angular",
+    "sequelize",
+    "express"
+  ],
+  "author": "relato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RELATO/alamo/issues"
+  },
+  "homepage": "https://github.com/RELATO/alamo#readme",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "sequelize": "^3.21.0"
+  }
+}
